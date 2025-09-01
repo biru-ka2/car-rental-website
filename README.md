@@ -1,10 +1,10 @@
-# Tana Car Rental 🚗🌊
+# Car Rental 🚗🌊
 
-**Discover Ethiopia with Ease – Tana Car Rental, Your Trusted Partner for Memorable Journeys**
+**Discover Ethiopia with Ease – Car Rental, Your Trusted Partner for Memorable Journeys**
 
 ### Description
 
-Welcome to **Tana Car Rental**! This React-based application offers a seamless and visually engaging experience for users to browse, compare, and rent cars conveniently online. Tailored with a sleek interface, it includes a diverse car list with comprehensive details and an interactive map showcasing our branch locations powered by the Leaflet library.
+Welcome to **Car Rental**! This React-based application offers a seamless and visually engaging experience for users to browse, compare, and rent cars conveniently online. Tailored with a sleek interface, it includes a diverse car list with comprehensive details and an interactive map showcasing our branch locations powered by the Leaflet library.
 
 ### 🌟 Key Features
 
@@ -24,7 +24,7 @@ Welcome to **Tana Car Rental**! This React-based application offers a seamless a
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/tana-car-rental.git
+   git clone https://github.com/biru-ka2/car-rental-website.git
    ```
 2. **Navigate into the Project Directory**
    ```bash
@@ -45,12 +45,9 @@ Welcome to **Tana Car Rental**! This React-based application offers a seamless a
 - **/public** - Static assets
 - **README.md** - Project documentation
 
-### 🌍 Live Demo
-
-Check out the live version here: [Tana Car Rental](https://tana-car-rental.netlify.app/)
 
 ### 📌 Contact
 
 Feel free to reach out for any feedback or inquiries!
 
-**Happy driving with Tana Car Rental!**
+**Happy driving with  Car Rental!**
